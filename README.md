@@ -55,7 +55,7 @@ Scenario 2: The strike price is still higher than the share price. Thus, you wou
 
 - S<sub>t</sub> =$ 100 $ \
 Scenario 1: payoff = 100 - 50 = 50 $ \
-Scenario 2: Here, the strike price is lower than the market price so it makes sense to execute the option. By doing so, you can buy the share at the strike price of 80 ZAR and the profit is therefore = 100 - 80 = 20 $. However, remember that you also paid a premium for the option so the total payoff is 100 - 80 - 5 = 15 $.
+Scenario 2: Here, the strike price is lower than the market price so it makes sense to execute the option. By doing so, you can buy the share at the strike price of 80 $ and the profit is therefore = 100 - 80 = 20 $. However, remember that you also paid a premium for the option so the total payoff is 100 - 80 - 5 = 15 $.
 
 At this stage, you might be wondering why buy the option at all? And it kind of seems like betting? What's important to keep in mind is the initial investment you have to put up in order to buy the actual ABC share vs buying the call option. Buying the share requires a much higher investment and you run the risk of losing a lot more money if the share price drops below the price you initially paid for it. Whereas with the option, if the share price drops below the strike price, you can just let the option expire and lose a maximum of 5 $ (the price you paid for the option). There are also other reasons to purchase options, such as hedging against risk or offsetting other trades. In general, you can read more about these strategies here: https://www.investopedia.com/trading/options-strategies/
 
