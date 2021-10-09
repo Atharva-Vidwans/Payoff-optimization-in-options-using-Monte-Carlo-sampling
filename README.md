@@ -63,6 +63,6 @@ At this stage, you might be wondering why buy the option at all? And it kind of 
 
 Below are the payoff function graph for European Put and European Call option
 
-<img src="payoff_for_Ecall.JPG" width=1000 height=600 />
+<img src="payoff_for_Ecall.JPG" width=1000 height=450 />
 
-<img src="payoff_for_Eput.JPG" width=1000 height=600 />
+<img src="payoff_for_Eput.JPG" width=1000 height=450 />
