@@ -1,4 +1,4 @@
-# Quantum Algorithm for payoff optimization in options using Monte Carlo sampling
+# Quantum Algorithm for payoff optimization in options using Quantum Amplitude Estimation
 
 ## Basics of Options in finance
 
